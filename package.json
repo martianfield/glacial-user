@@ -1,0 +1,22 @@
+{
+  "name": "glacial-user",
+  "version": "0.1.0",
+  "description": "User management & authentication for glacial.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martianfield/glacial-user.git"
+  },
+  "author": "Martin Imfeld <martin.imfeld@gmail.com> (http://martianfield.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martianfield/glacial-user/issues"
+  },
+  "homepage": "https://github.com/martianfield/glacial-user#readme"
+}
